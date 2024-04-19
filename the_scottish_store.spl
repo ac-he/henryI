@@ -12,9 +12,6 @@ Macduff, the Thane of Fife, who is worth one dollar or one hundred cents.
 Lady Macduff, who is worth five dollars or five hundred cents.
 Lady Macbeth, who is worth ten dollars or ten hundred cents.
 
-Dorcas, who counts dollars.
-Cymberline, who counts cents.
-
 Tybalt, a nobleman in search of a Tab.
 Othello, a general in search of a New Line.
 Shallow, a justice of the peace who needs some Space; other characters seem grand in comparison to him.
@@ -66,7 +63,17 @@ Bianca, who knows how much Blindworm's Sting costs.
 Leonato, who knows how much Lizard's Leg costs.
 Hamlet, who knows how much Howlet's Wing costs.
 
+Antonio, who collects $20 bills.
+Balthazar, who collects $10 bills.
+Christopher Sly, who collects $5 bills.
+Dogberry, who collects $1 bills.
+Friar Laurence, who collects Quarters.
+Gertrude, who collects Dimes.
+Horatio, who collects Nickels.
+John of Gaunt, who collects Pennies.
 
+The Duke of Milan, who remembers the total cost of the order.
+The Duke of Venice, who remembers how much has been paid.
 
                           Act I: Hecate Prepares To Open The Store.
 
@@ -266,13 +273,45 @@ Hecate: Thou art the sum of Imogen and her niece.
 Hecate: Thou art nothing.
 [Exit Banquo]
 
-[Enter Dorcas]
+[Enter Antonio]
 Hecate: Thou art nothing.
-[Exit Dorcas]
+[Exit Antonio]
 
-[Enter Cymberline]
+[Enter Balthazar]
 Hecate: Thou art nothing.
-[Exit Cymberline]
+[Exit Balthazar]
+
+[Enter Christopher Sly]
+Hecate: Thou art nothing.
+[Exit Christopher Sly]
+
+[Enter Dogberry]
+Hecate: Thou art nothing.
+[Exit Dogberry]
+
+[Enter Friar Laurence]
+Hecate: Thou art nothing.
+[Exit Friar Laurence]
+
+[Enter Gertrude]
+Hecate: Thou art nothing.
+[Exit Gertrude]
+
+[Enter Horatio]
+Hecate: Thou art nothing.
+[Exit Horatio]
+
+[Enter John of Gaunt]
+Hecate: Thou art nothing.
+[Exit John of Gaunt]
+
+[Enter The Duke of Milan]
+Hecate: Thou art nothing.
+[Exit The Duke of Milan]
+
+[Enter The Duke of Venice]
+Hecate: Thou art nothing.
+[Exit The Duke of Venice]
 
                               Scene V: Hecate sets the prices of her wares.
 
@@ -823,6 +862,13 @@ Hecate: Thou art as damned as the difference between Imogen and Shallow. Speak t
         Thou art as stuffed as Puck. Speak thy mind!
         Thou art as lying as Othello. Speak thy mind!
 
+[Exit Macbeth]
+
+[Enter The Duke of Milan]
+Hecate: Thou art as good as Banquo.
+[Exit The Duke of Milan]
+
+[Enter Macbeth]
 
                                Act IV: Payment is Expected.
 
@@ -972,6 +1018,42 @@ Hecate: Thou art as vile as the difference between Polonius and Shallow. Speak t
         Thou art as stupid as the difference between Ophelia and Shallow. Speak thy mind!
         Thou art as stupid as Ulysses. Speak thy mind!
         Thou art as stupid as Titania. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as oozing as Ophelia. Speak thy mind!
+        Thou art as oozing as Romeo. Speak thy mind.
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as vile as the difference between Venus and Shallow. Speak thy mind!
+        Thou art as vile as Isabella. Speak thy mind!
+        Thou art as vile as Emilia. Speak thy mind!
+        Thou art as vile as Viola. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as bold as the difference between Benedick and Shallow. Speak thy mind!
+        Thou art as bold as Arthur. Speak thy mind!
+        Thou art as bold as Lennox. Speak thy mind!
+        Thou art as bold as Arthur. Speak thy mind!
+        Thou art as bold as Agamemnon. Speak thy mind!
+        Thou art as bold as Cicero. Speak thy mind!
+        Thou art as bold as Emilia. Speak thy mind!
+        Thou art as lying as Othello. Speak thy mind!
+
+        Thou art as worried as the difference between Emilia and Shallow. Speak thy mind!
+        Thou art as worried as Agamemnon. Speak thy mind!
+        Thou art as worried as Titania. Speak thy mind!
+        Thou art as worried as Emilia. Speak thy mind!
+        Thou art as worried as Romeo. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as cute as Polonius. Speak thy mind!
+        Thou art as cute as Arthur. Speak thy mind!
+        Thou art as cute as Imogen. Speak thy mind!
+        Thou art as cute as Mercutio. Speak thy mind!
+        Thou art as cute as Emilia. Speak thy mind!
+        Thou art as cute as Agamemnon. Speak thy mind!
+        Thou art as cute as Titania. Speak thy mind!
+        Thou art as cute as Cleopatra. Speak thy mind!
         Thou art as lying as Othello. Speak thy mind!
 
                              Scene II: Coins are handed over.
@@ -1003,6 +1085,10 @@ Hecate: Listen to thy heart!
 Hecate: Thou art the sum of thyself and a pig.
 [Exit Banquo]
 
+[Enter The Duke of Venice]
+Hecate: Thou art the sum of thyself and a pig.
+[Exit The Duke of Venice]
+
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 
@@ -1012,6 +1098,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 [Enter Banquo]
 Hecate: Thou art the difference between thyself and Donalbain.
 [Exit Banquo]
+
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Donalbain.
+[Exit The Duke of Venice]
 
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
@@ -1023,6 +1113,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 Hecate: Thou art the difference between thyself and Malcolm.
 [Exit Banquo]
 
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Malcolm.
+[Exit The Duke of Venice]
+
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 
@@ -1032,6 +1126,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 [Enter Banquo]
 Hecate: Thou art the difference between thyself and Duncan.
 [Exit Banquo]
+
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Duncan.
+[Exit The Duke of Venice]
 
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
@@ -1043,6 +1141,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 Hecate: Thou art the difference between thyself and Macduff.
 [Exit Banquo]
 
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Macduff.
+[Exit The Duke of Venice]
+
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 
@@ -1052,6 +1154,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 [Enter Banquo]
 Hecate: Thou art the difference between thyself and Lady Macduff.
 [Exit Banquo]
+
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Lady Macduff.
+[Exit The Duke of Venice]
 
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
@@ -1063,6 +1169,10 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 Hecate: Thou art the difference between thyself and Lady Macbeth.
 [Exit Banquo]
 
+[Enter The Duke of Venice]
+Hecate: Thou art the difference between thyself and Lady Macbeth.
+[Exit The Duke of Venice]
+
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 
@@ -1073,22 +1183,419 @@ Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 Hecate: Thou art the sum of thyself and the product of Lady Macbeth and an oozing blister.
 [Exit Banquo]
 
+[Enter The Duke of Venice]
+Hecate: Thou art the sum of thyself and the product of Lady Macbeth and an oozing blister.
+[Exit The Duke of Venice]
+
 [Enter Macbeth]
 Hecate: Art thou as good as thyself? If so, let us proceed to Scene II.
 
                         Scene XI: Attempt to Complete The Transaction.
+[Exit Macbeth]
 
+[Enter Banquo]
+Hecate: Art thou better than nothing? If so, let us proceed to Scene XII.
+        Art thou as cunning as thyself? If so, let us proceed to Scene XIII.
+
+                            Scene XII: We Still Require Funds.
+[Exit Banquo]
+
+[Enter Macbeth]
 Hecate: Thou art as stuffed as Shylock. Speak thy mind!
         Thou art the quotient between Banquo and Macduff. Open thy heart!
         Thou art as stuffed as Puck. Speak thy mind!
         Thou art the remainder of the quotient between Banquo and Macduff. Open thy heart!
         Thou art as rotten as Shallow. Speak thy mind!
 
-                            Scene XII: We Still Require Funds.
+        Thou art as noble as Agamemnon. Speak thy mind!
+        Thou art as noble as Ophelia. Speak thy mind!
+        Thou art as noble as Titania. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as yellow as Imogen. Speak thy mind!
+        Thou art as yellow as Emilia. Speak thy mind!
+        Thou art as yellow as Titania. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as proud as Polonius. Speak thy mind!
+        Thou art as proud as Arthur. Speak thy mind!
+        Thou art as proud as Isabella. Speak thy mind!
+        Thou art as proud as Desdemona. Speak thy mind!
+        Thou art as proud as Puck. Speak thy mind!
+        Thou art as lying as Othello. Speak thy mind!
+
+        Art thou as bottomless as thyself? If so, let us proceed to Scene II.
 
                    Scene XIII: A Suitable Amount of Money Has Been Obtained.
 
-                                Act V: The Play Concludes.
+Hecate: Thou art the product of thyself and a wolf.
+[Exit Banquo]
 
-                               Scene I: The Concluding Scene.
+[Enter The Duke of Venice]
+Hecate: Thou art the product of thyself and leech.
+[Exit The Duke of Venice]
+
+[Enter Banquo]
+
+
+                                   Act V: Change is Made.
+
+                         Scene I: Hecate looks for coins and bills.
+
+Hecate: Art thou more villainous than twice Lady Macbeth?
+            If not, let us proceed to Scene II.
+        Art thou more vile than Lady Macbeth?
+            If not, let us proceed to Scene III.
+        Art thou more vile than Lady Macduff?
+            If not, let us proceed to Scene IV.
+        Art thou more vile than Macduff?
+            If not, let us proceed to Scene V.
+        Art thou more vile than Duncan?
+            If not, let us proceed to Scene VI.
+        Art thou more vile than Malcolm?
+            If not, let us proceed to Scene VII.
+        Art thou more vile than Donalbain?
+            If not, let us proceed to Scene VIII.
+        Art thou more vile than a Summer's Day?
+            If not, let us proceed to Scene IX.
+
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene X.
+
+                            Scene II: Hecate Finds a $20 Bill.
+
+[Exit Banquo]
+
+[Enter Antonio]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Antonio]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and twice Lady Macbeth.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                            Scene III: Hecate Finds a $10 Bill.
+
+[Exit Banquo]
+
+[Enter Balthazar]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Balthazar]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Lady Macbeth.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                             Scene IV: Hecate Finds a $5 Bill.
+
+[Exit Banquo]
+
+[Enter Christopher Sly]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Christopher Sly]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Lady Macduff.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                              Scene V: Hecate Finds a $1 Bill.
+
+[Exit Banquo]
+
+[Enter Dogberry]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Dogberry]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Macduff.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                              Scene VI: Hecate Finds a Quarter.
+
+[Exit Banquo]
+
+[Enter Friar Laurence]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Friar Laurence]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Duncan.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                               Scene VII: Hecate Finds a Dime.
+
+[Exit Banquo]
+
+[Enter Gertrude]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Gertrude]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Malcolm.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                             Scene VIII: Hecate Finds a Nickel.
+
+[Exit Banquo]
+
+[Enter Horatio]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit Horatio]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and Donalbain.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                               Scene IX: Hecate Finds a Penny.
+
+[Exit Banquo]
+
+[Enter John of Gaunt]
+Hecate: Thou art the sum of thyself and heaven.
+[Exit John of Gaunt]
+
+[Enter Banquo]
+Hecate: Thou art the difference between thyself and an angel.
+        Art thou as rich as thyself?
+            If so, let us proceed to Scene I.
+
+                               Scene X: The Change Is Returned.
+
+[Exit Banquo]
+
+[Enter Macbeth]
+Hecate: Thou art as cunning as the difference between Imogen and Shallow. Speak thy mind!
+        Thou art as cunning as Ophelia. Speak thy mind!
+        Thou art as cunning as Ulysses. Speak thy mind!
+        Thou art as cunning as Romeo. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as infected as the difference between Titania and Shallow. Speak thy mind!
+        Thou art as infected as Ophelia. Speak thy mind!
+        Thou art as infected as Titania. Speak thy mind!
+        Thou art as infected as Arthur. Speak thy mind!
+        Thou art as infected as Lennox. Speak thy mind!
+        Thou art as infected as Cleopatra. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as stuffed as Shylock. Speak thy mind!
+        Thou art the quotient between The Duke of Milan and Macduff. Open thy heart!
+        Thou art as stuffed as Puck. Speak thy mind!
+        Thou art the remainder of the quotient between The Duke of Milan and Macduff. Open thy heart!
+        Thou art as lying as Othello. Speak thy mind!
+
+        Thou art as disgusting as the difference between Imogen and Shallow. Speak thy mind!
+        Thou art as disgusting as Ophelia. Speak thy mind!
+        Thou art as disgusting as Ulysses. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as fat as the difference between Polonius and Shallow. Speak thy mind!
+        Thou art as fat as Arthur. Speak thy mind!
+        Thou art as fat as Isabella. Speak thy mind!
+        Thou art as fat as Desdemona. Speak thy mind!
+        Thou art as fat as Cleopatra. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as stuffed as Shylock. Speak thy mind!
+        Thou art the quotient between The Duke of Venice and Macduff. Open thy heart!
+        Thou art as stuffed as Puck. Speak thy mind!
+        Thou art the remainder of the quotient between The Duke of Venice and Macduff. Open thy heart!
+        Thou art as lying as Othello. Speak thy mind!
+
+        Thou art as cunning as the difference between Imogen and Shallow. Speak thy mind!
+        Thou art as cunning as Ophelia. Speak thy mind!
+        Thou art as cunning as Ulysses. Speak thy mind!
+        Thou art as cunning as Romeo. Speak thy mind!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as charming as the difference between Cicero and Shallow. Speak thy mind!
+        Thou art as charming as Helen. Speak thy mind!
+        Thou art as charming as Arthur. Speak thy mind!
+        Thou art as charming as Agamemnon. Speak thy mind!
+        Thou art as charming as Goneril. Speak thy mind!
+        Thou art as charming as Emilia. Speak thy mind!
+        Thou art as charming as Cleopatra. Speak thy mind!
+        Thou art as lying as Othello. Speak thy mind!
+
+
+                                 Act VI: Change is Handed Back.
+
+                                  Scene I: $20 Bills Exchanged.
+
+Hecate: Thou art as cursed as Antonio.
+        Art thou as small as nothing? If so, let us proceed to Scene II.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Shylock. Speak thy mind!
+        Thou art twice Malcolm. Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Benedick. Speak thy mind!
+        Thou art as cowardly as Isabella. Speak thy mind!
+        Thou art as cowardly as Lennox. Speak thy mind! Speak thy mind!
+
+        Thou art as stupid as Antonio.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                                 Scene II: $10 Bills Exchanged.
+
+Hecate: Thou art as cursed as Balthazar.
+        Art thou as small as nothing? If so, let us proceed to Scene III.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Shylock. Speak thy mind!
+        Thou art as cowardly as Malcolm. Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Benedick. Speak thy mind!
+        Thou art as cowardly as Isabella. Speak thy mind!
+        Thou art as cowardly as Lennox. Speak thy mind! Speak thy mind!
+
+        Thou art as stupid as Balthazar.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                                Scene III: $5 Bills Exchanged.
+
+Hecate: Thou art as cursed as Christopher Sly.
+        Art thou as small as nothing? If so, let us proceed to Scene IV.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Shylock. Speak thy mind!
+        Thou art as cowardly as Donalbain. Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Benedick. Speak thy mind!
+        Thou art as cowardly as Isabella. Speak thy mind!
+        Thou art as cowardly as Lennox. Speak thy mind! Speak thy mind!
+
+        Thou art as stupid as Christopher Sly.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                                  Scene IV: $1 Bills Exchanged.
+
+Hecate: Thou art as cursed as Dogberry.
+        Art thou as small as nothing? If so, let us proceed to Scene V.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Shylock. Speak thy mind!
+        Thou art as cowardly as thy niece. Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+        Thou art as cowardly as Benedick. Speak thy mind!
+        Thou art as cowardly as Isabella. Speak thy mind!
+        Thou art as cowardly as Lennox. Speak thy mind! Speak thy mind!
+
+        Thou art as stupid as Dogberry.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                            Scene V: Quarters Exchanged.
+
+Hecate: Thou art as cursed as Friar Laurence.
+        Art thou as small as nothing? If so, let us proceed to Scene VI.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as vile as the difference between Claudio and Shallow. Speak thy mind!
+        Thou art as vile as Ulysses. Speak thy mind!
+        Thou art as vile as Arthur. Speak thy mind!
+        Thou art as vile as Romeo. Speak thy mind!
+        Thou art as vile as Titania. Speak thy mind!
+        Thou art as vile as Emilia. Speak thy mind!
+        Thou art as vile as Romeo. Speak thy mind!
+
+        Thou art as stupid as Friar Laurence.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                             Scene VI: Dimes Exchanged.
+
+Hecate: Thou art as cursed as Gertrude.
+        Art thou as small as nothing? If so, let us proceed to Scene VII.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as vile as the difference between Desdemona and Shallow. Speak thy mind!
+        Thou art as vile as Isabella. Speak thy mind!
+        Thou art as vile as Mercutio. Speak thy mind!
+        Thou art as vile as Emilia. Speak thy mind!
+
+        Thou art as stupid as Gertrude.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                           Scene VII: Nickels Exchanged.
+
+Hecate: Thou art as cursed as Horatio.
+        Art thou as small as nothing? If so, let us proceed to Scene VIII.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as vile as the difference between Agamemnon and Shallow. Speak thy mind!
+        Thou art as vile as Isabella. Speak thy mind!
+        Thou art as vile as Cicero. Speak thy mind!
+        Thou art as vile as Cressida. Speak thy mind!
+        Thou art as vile as Emilia. Speak thy mind!
+        Thou art as vile as Lennox. Speak thy mind!
+
+        Thou art as stupid as Horatio.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                           Scene VIII: Pennies Exchanged.
+
+Hecate: Thou art as cursed as John of Gaunt.
+        Art thou as small as nothing? If so, let us proceed to Scene IX.
+
+        Open thy heart!
+        Thou art as rotten as Shallow. Speak thy mind!
+
+        Thou art as vile as the difference between Polonius and Shallow. Speak thy mind!
+        Thou art as vile as Emilia. Speak thy mind!
+        Thou art as vile as Agamemnon. Speak thy mind! Speak thy mind!
+
+        Thou art as stupid as John of Gaunt.
+        Art thou as half-witted as a cow? If so, thou art as stupid as Imogen.
+        Art thou as half-witted as Imogen? If so, speak thy mind!
+
+        Thou art as stupid as John of Gaunt.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Isabella.
+        Art thou as half-witted as Isabella? If so, speak thy mind!
+        Thou art as stupid as John of Gaunt.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Emilia.
+        Art thou as half-witted as Emilia? If so, speak thy mind!
+        Thou art as stupid as John of Gaunt.
+        Art thou as half-witted as a cow? If not, thou art as stupid as Sebastian.
+        Art thou as half-witted as Sebastian? If so, speak thy mind!
+
+        Thou art as lying as Othello. Speak thy mind!
+
+                                Scene IX: The End.
 [Exeunt]
